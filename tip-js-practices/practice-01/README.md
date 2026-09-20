@@ -128,18 +128,6 @@ node practice-01/js/debug_correct.js
 | Обработка количества задач | Значение переменной completedTotal="32" и принадлежит строковому типу данных (string)| completedTotal получается через сложение двух переменных completedText + additionalText. Т.к. эти две переменные изначально были строками (string), то при выполнении операции "+" происходит их конкатенация и они слились в одну строку. | В момент присваивания значения переменной completedTotal принудительно привести тип данных переменных ompletedText и additionalText к Number | completedTotal = 5, что является корректным и ожидаемым результатом |
 | Граница цикла | Контрольная сумма не включала значение последнего заданния. Цикл не отрабатывал последнюю итерацию | Некорректный диапозон-условие в цикле. taskNumber < 4 | Заменить строго меньше, на меньше-равно: taskNumber <= 4 | Контрольная сумма корректна. Цикл выполняется нужное количество раз. |
 
-<img src=".\screenshots\debug-breakpoint-1.png" style="width: 50%; height: auto;">  
-
----
-
-<img src=".\screenshots\debug-breakpoint-2.png" style="width: 50%; height: auto;">  
-
----
-
-Относительные ссылки на изображения:
-- Изображение №1: .\screenshots\debug-breakpoint-1.png
-- Изображение №1: .\screenshots\debug-breakpoint-2.png   
-
 До исправления, текущий `debug.js`:
 
 ```text
