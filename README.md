@@ -16,7 +16,7 @@
 
 ## Ссылка на опубликованный репозиторий
 
-GitHub: https://github.com/Portaresku-AI/Industrial_programming_technologies
+практика 1: https://github.com/igor231157/Tip/tree/main/tip-js-practices/practice-01
 
 ## Автор
 
