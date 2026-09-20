@@ -14,9 +14,10 @@
 - - - `README.md` - файл с описанием текущей практической работы;
 - - - `...` - файлы решения текущей практической работы;
 
-## Ссылка на опубликованный репозиторий
+## Практические работы
 
-Практика 1: https://github.com/igor231157/Tip/tree/main/tip-js-practices/practice-01
+- [Практическая работа № 1]([/practice-01/README.md](https://github.com/igor231157/Tip/tree/main/tip-js-practices/practice-01))
+
 
 ## Автор
 
