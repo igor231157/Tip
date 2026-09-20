@@ -16,7 +16,7 @@
 
 ## Ссылка на опубликованный репозиторий
 
-практика 1: https://github.com/igor231157/Tip/tree/main/tip-js-practices/practice-01
+Практика 1: https://github.com/igor231157/Tip/tree/main/tip-js-practices/practice-01
 
 ## Автор
 
